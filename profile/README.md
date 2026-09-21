@@ -12,7 +12,6 @@
   <p align="center">
     <a href="https://ilmora.co.id"><img src="https://img.shields.io/badge/Website-ilmora.co.id-blue?style=flat-square" alt="Website"></a>
     <a href="https://ilmora.co.id"><img src="https://img.shields.io/badge/Platform-Live-success?style=flat-square" alt="Platform Live"></a>
-    <a href="https://ui.ac.id"><img src="https://img.shields.io/badge/Origin-Universitas%20Indonesia-amber?style=flat-square" alt="Origin"></a>
     <a href="https://ilmora.co.id"><img src="https://img.shields.io/badge/Company-PT%20Ilmora%20Digital%20Innovation-slate?style=flat-square" alt="Entity"></a>
   </p>
 
@@ -20,8 +19,9 @@
     <a href="https://ilmora.co.id">Website</a> •
     <a href="https://ilmora.co.id">Platform</a> •
     <a href="#developer-platform-paas">Developer API</a> •
-    <a href="#research--academic-foundation">Research</a> •
-    <a href="mailto:adriana.ainurrahmah@gmail.com">Contact</a>
+    <a href="https://www.linkedin.com/company/ilmorastartup">LinkedIn</a> •
+    <a href="https://instagram.com/ilmorahq">Instagram</a> •
+    <a href="mailto:admin@ilmora.co.id">Contact</a>
   </p>
 </div>
 
@@ -73,7 +73,7 @@ Ilmora also provides a **Visual Reasoning Engine API** for schools, EdTech start
 - **Stroke & Speech Streaming**: Stream synchronized vector strokes and synthetic voice over WebSockets/WebRTC.
 - **Stateful Memory Graph**: Store and query learner-specific pedagogical trajectories.
 
-For API access and enterprise integration inquiries, reach out via [adriana.ainurrahmah@gmail.com](mailto:adriana.ainurrahmah@gmail.com).
+For API access and enterprise integration inquiries, reach out via [admin@ilmora.co.id](mailto:admin@ilmora.co.id).
 
 ---
 
@@ -86,31 +86,17 @@ For API access and enterprise integration inquiries, reach out via [adriana.ainu
 
 ---
 
-### Research & Academic Foundation
-
-Ilmora originated from academic research at **Universitas Indonesia**, led by **Adriana Ainurrahmah Damanik**, focusing on accessible education technologies and inclusive learning systems.
-
-**Selected Research:**
-- **EDLIG (*Education Disability Learning Inclusive Game*)** — Interactive learning application for teachers of hearing-impaired students to enhance classroom communication.
-- **BEFU (*Better Future*)** — Environmental education and vehicular carbon detection platform supporting UN SDG-13.
-
-**Honors & Awards:**
-- 🥇 **Gold Medal** — Jakarta International Science Fair (JISF)
-- 🥇 **Gold Medal** — World Innovation Competition and Exhibition (WICE)
-- 🏆 **1st Place & Best Presenter** — Universitas Indonesia Science Olympiad
-
----
-
-### Contact
+### Contact & Community
 
 - **Website**: [ilmora.co.id](https://ilmora.co.id)
 - **Company**: PT Ilmora Digital Innovation
-- **Campus**: Universitas Indonesia
-- **Email**: [adriana.ainurrahmah@gmail.com](mailto:adriana.ainurrahmah@gmail.com)
+- **Email**: [admin@ilmora.co.id](mailto:admin@ilmora.co.id)
+- **LinkedIn**: [Ilmora](https://www.linkedin.com/company/ilmorastartup)
+- **Instagram**: [@ilmorahq](https://instagram.com/ilmorahq)
 - **GitHub**: [@ilmorahq](https://github.com/ilmorahq)
 
 <br/>
 
 <div align="center">
-  <sub>© PT Ilmora Digital Innovation • Universitas Indonesia</sub>
+  <sub>© PT Ilmora Digital Innovation</sub>
 </div>
