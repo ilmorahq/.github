@@ -1,18 +1,28 @@
 <div align="center">
+  <a href="https://ilmora.co.id" target="_blank">
+    <img src="https://raw.githubusercontent.com/ilmorahq/.github/main/assets/logo.png" alt="Ilmora Logo" width="260">
+  </a>
 
-# Ilmora
+  <br/><br/>
 
-**Real-time AI voice and visual tutor on an infinite whiteboard.**
+  <p align="center">
+    <strong>Real-time AI voice and visual tutor on an infinite whiteboard.</strong>
+  </p>
 
-[![Website](https://img.shields.io/badge/Website-ilmora.co.id-blue?style=flat-square)](https://ilmora.co.id)
-[![Platform](https://img.shields.io/badge/Platform-Live-success?style=flat-square)](https://ilmora.co.id)
-[![Origin](https://img.shields.io/badge/Origin-Universitas%20Indonesia-amber?style=flat-square)](https://ui.ac.id)
-[![Entity](https://img.shields.io/badge/Company-PT%20Ilmora%20Digital%20Innovation-slate?style=flat-square)](https://ilmora.co.id)
+  <p align="center">
+    <a href="https://ilmora.co.id"><img src="https://img.shields.io/badge/Website-ilmora.co.id-blue?style=flat-square" alt="Website"></a>
+    <a href="https://ilmora.co.id"><img src="https://img.shields.io/badge/Platform-Live-success?style=flat-square" alt="Platform Live"></a>
+    <a href="https://ui.ac.id"><img src="https://img.shields.io/badge/Origin-Universitas%20Indonesia-amber?style=flat-square" alt="Origin"></a>
+    <a href="https://ilmora.co.id"><img src="https://img.shields.io/badge/Company-PT%20Ilmora%20Digital%20Innovation-slate?style=flat-square" alt="Entity"></a>
+  </p>
 
-<br/>
-
-[Website](https://ilmora.co.id) • [Platform](https://ilmora.co.id) • [Developer API](#developer-platform-paas) • [Research](#research--academic-foundation) • [Contact](mailto:adriana.ainurrahmah@gmail.com)
-
+  <p align="center">
+    <a href="https://ilmora.co.id">Website</a> •
+    <a href="https://ilmora.co.id">Platform</a> •
+    <a href="#developer-platform-paas">Developer API</a> •
+    <a href="#research--academic-foundation">Research</a> •
+    <a href="mailto:adriana.ainurrahmah@gmail.com">Contact</a>
+  </p>
 </div>
 
 ---
